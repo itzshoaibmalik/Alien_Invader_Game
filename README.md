@@ -25,14 +25,13 @@ when the game launches.
 
 ### Game Assets:
 
-* Some images (described in the game's credits) are either directly used or modified versions of NASA images.
+* Some images (described in the game's credits) are either directly used or modified versions of PIXABAY images.
 * [Flak Bursts sound](https://freesound.org/people/zimbot/sounds/209984/) (Modified) is by [zimbot](https://freesound.org/people/zimbot/) on https://freesound.org, under the Attribution License.
-* Cash Register sound is by [kiddpark](https://freesound.org/people/kiddpark/) on https://freesound.org, under the Attribution License.
 * The green alien crash sound is a modified version of a sound by [spoonsandlessspoons](https://freesound.org/people/spoonsandlessspoons/) on https://freesound.org, under the Attribution License.
 
-### Other contributers:
-
-* @XracerX
 
 # License
 This software is under the GNU GPLv3 License. See the [LICENSE](https://github.com/nachomonkey/Interplanetary-Invaders/blob/master/LICENSE) file for the full license.
+
+###ENJOY:)
+
