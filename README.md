@@ -10,19 +10,12 @@
 
  ![Gameplay Screenshot](https://github.com/itzshoaibmalik/Alien_Invader_Game/blob/main/Alien%20Invader/Annotation%202021-07-11%20190512.png  "Gameplay Screenshot")
 
-After launching the game and selecting **Play**, a list of profiles appears. (Profiles are stored in the data directory). Once a profile
-is selected, map mode is entered. After selecting a mission and continuing through the briefing and inventory menus,
-a mission begins. The controls are **LEFT** and **RIGHT** to move (or **a** and **d**) and **SPACE**, **UP**, or **w** to fire.
-
-At some point you will encounter an item (![Item](interplanetary_invaders/images/bitmap/animations/items/block/block1.png  "Item"))
-After touching an item, it will disappear and go into your item storage ( ![Item storage](interplanetary_invaders/images/bitmap/itemHolder.png))
-An icon representing the item will be visible in your item storage.
-Press the number key on your keyboard that equals the one below the item's icon (i.e. If the item is in slot three, it
-will have a "3" under it, and you must press the <**3**> key to activate it.)  You can also press <**Y**> to activate items.  The items vary from mission to mission (and planet to planet).
+After launching the game and selecting **Play**, You can control your tank in three different ways. You can use joystick mode or button mode. With **Button mode**, there are three invisible buttons. You can see the placements of the buttons and switch between modes in the settings. If on pc, you can you the space button to shoot and the left and right keys to move regardless of which mode you are in. You have three lives. when you lose one, the game will pause for a moment. tap the screen to return to main menu.
+**You can switch between joystick and button mode**
 
 ### Hints
 
-When using the "2x Fire Rate" item without the "Auto Gun" item, it is easiest to fire faster
+When using the "Fire Rate" item it is easiest to fire faster
 by pressing the **UP** key.
 
 Press **F2** to take screenshots. Screenshots get stored in your *data* directory. The data directory's path gets printed
