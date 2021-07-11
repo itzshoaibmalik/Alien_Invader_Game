@@ -33,5 +33,5 @@ when the game launches.
 # License
 This software is under the GNU GPLv3 License. See the [LICENSE](https://github.com/nachomonkey/Interplanetary-Invaders/blob/master/LICENSE) file for the full license.
 
-###ENJOY:)
+##ENJOY:)
 
