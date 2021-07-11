@@ -23,7 +23,7 @@ initAudio();
 	var isTouchingJoystick = false, barrierC, barrierN, barrierX = [], barrierY = [];
 	var str1;
 	var str2 = "Start Instructions Settings\n\nMade by Shoaib Malik";
-	var str3 = "\nWelcome to Alien Invaders' instructions\n\nThe object of the game is to get as many points as possible by shooting aliens\n\nPurple aliens are worth 10 points\n\nPink aliens are worth 20 points\n\nBlue aliens are worth 30 points\n\nGreen aliens are worth 40 points\n\nMade By Shoaib Malik:)\n\n\ntap the screen to continue\n\n";
+	var str3 = "\nWelcome to Alien Invaders\n\nDeveloper Shoaib Malik' instructions\n\nThe object of the game is to get as many points as possible by shooting aliens\n\nPurple aliens are worth 10 points\n\nPink aliens are worth 20 points\n\nBlue aliens are worth 30 points\n\nGreen aliens are worth 40 points\n\nMade By Shoaib Malik:)\n\n\ntap the screen to continue\n\n";
 	var str4 = "\nYou can control your tank in three different ways. You can use joystick mode or button mode. With button mode, there are three invisible buttons. You can see the placements of the buttons and switch between modes in the settings. If on pc, you can you the space button to shoot and the left and right keys to move regardless of which mode you are in.\nYou have three lives; when you lose one, the game will pause for a moment.\n\n Enjoy ;)\ntap the screen to return to main menu";
 	var str5 = "\n\nWelcome to settings, here you can switch between joystick and button mode.\n\nMade by Shoaib Malik:)"
     var str6;
